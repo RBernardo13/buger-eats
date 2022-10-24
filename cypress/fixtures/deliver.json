@@ -1,0 +1,64 @@
+{
+    "signup": {
+       
+                "name": "Rafael Bernardo",
+                "cpf": "00000014141",
+                "email": "rafael@hotmail.com",
+                "whatsapp": "11123456789",
+
+                "address": {
+                    "postalcode": "04534011",
+                    "street": "Joaquim Floriano",
+                    "number": "100",
+                    "details": "Apt 142",
+                    "district": "Itaim Bibi",
+                    "city_state": "São Paulo/SP"
+
+                },
+                "delivery_method": "Moto",
+                "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Lara Bernardo",
+        "cpf": "000000141AABDD",
+        "email": "lara@hotmail.com",
+        "whatsapp": "1112345673050",
+
+        "address": {
+            "postalcode": "04534011",
+            "street": "Joaquim Floriano",
+            "number": "300",
+            "details": "Apt 180",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    },
+    "email_inv": {
+       
+        "name": "cleo Bernardo",
+        "cpf": "00000014141",
+        "email": "cleo.com.br",
+        "whatsapp": "11123456789",
+
+        "address": {
+            "postalcode": "04534011",
+            "street": "Joaquim Floriano",
+            "number": "100",
+            "details": "Apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+}
+
+
+
+
+}
